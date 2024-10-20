@@ -1,7 +1,10 @@
 # Eliza Doolittle Chatbot
 Parody of a Rogerian therapist
 
-![Eliza Doolittle Chatbot Picture.png](Eliza Doolittle Chatbot Picture.png)
+**Outdated Repo**: See [@lewismoten/Eliza-Doolittle-Chatbot](https://github.com/lewismoten/Eliza-Doolittle-Chatbot) for all versions from 1.0 to 1.6, vendor, boxed for digital delivery, video, and more details.
+
+
+![Eliza Doolittle Chatbot Picture.png](./Eliza%20Doolittle%20Chatbot%20Picture.png)
 
 ELIZA is a famous 1966 computer program by Joseph Weizenbaum. It was made as a parody of a Rogerian therapist. it rephrases many of the patient's statements as questions and poses them to the patient. Solve all of your avatars emotional problems with this parody of an Rogerian therapist.
 

@@ -1,7 +1,7 @@
 # Eliza Doolittle Chatbot
 Parody of a Rogerian therapist
 
-**Outdated Repo**: See [@lewismoten/Eliza-Doolittle-Chatbot](https://github.com/lewismoten/Eliza-Doolittle-Chatbot) for all versions from 1.0 to 1.6, vendor, boxed for digital delivery, video, and more details.
+**Outdated Repo**: See [@lewismoten/Eliza-Doolittle-Chatbot](https://github.com/lewismoten/Eliza-Doolittle-Chatbot) for all versions from 1.0 to 1.2 and a few other objects and information.
 
 
 ![Eliza Doolittle Chatbot Picture.png](./Eliza%20Doolittle%20Chatbot%20Picture.png)

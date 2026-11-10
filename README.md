@@ -1,3 +1,5 @@
+![Eliza-Chatbot-LSL: Second Life Eliza Doolittle therapist parody](docs/images/social-preview.png)
+
 # Eliza Doolittle Chatbot
 Parody of a Rogerian therapist
 
